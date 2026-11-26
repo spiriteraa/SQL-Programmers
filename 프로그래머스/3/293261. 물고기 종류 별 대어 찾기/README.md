@@ -217,3 +217,6 @@
       </table>
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
+>
+> ### 메모
+> 이처럼 특정 항목별 MAX값과 그 행의 정보까지 필요한 경우 윈도우 함수 OVER: MAX(...) OVER (PARTITION BY ...)로 만들 수 있다
