@@ -186,3 +186,6 @@ LOW (상위 76% ~ 100%) : ID 2, ID 8</p>
       </table>
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
+>
+> ### 메모
+> 총 행 수 셀 때는 RANK(*) OVER()로 셀 수 있다
